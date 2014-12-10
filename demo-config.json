@@ -1,0 +1,18 @@
+
+{
+  "name":"Cross datacenter replication and disaster recovery with Red Hat JBoss Data Grid",
+  "summary":"Learn how you can achieve fault tolerance and resiliency when multiple copies of data are distributed across the grid and automatically backed up to another site",
+  "author":"Thomas Qvarnstrom",
+  "level":"Intermediate",
+  "published":true,
+  "prerequisites":"None",
+  "targetProduct":"JBoss Data Grid",
+  "productVersion":"JBoss Data Grid 6.3",
+  "technologies": ["Infinispan","Data Grid"],
+  "links": [ 
+    { 
+      "name":"Video",
+      "url":"https://www.youtube.com/watch?v=HN8vXRuKsZI"
+    }
+  ]
+}
