@@ -3,6 +3,7 @@
   "name":"Cross datacenter replication and disaster recovery with Red Hat JBoss Data Grid",
   "summary":"Learn how you can achieve fault tolerance and resiliency when multiple copies of data are distributed across the grid and automatically backed up to another site",
   "author":"Thomas Qvarnstrom",
+  "category":"jdg",
   "level":"Intermediate",
   "published":true,
   "prerequisites":"None",
